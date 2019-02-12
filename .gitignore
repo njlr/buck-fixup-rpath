@@ -1,0 +1,5 @@
+.buckconfig.local
+.buckconfig.d
+.buckd
+buck-out
+libtest.so
